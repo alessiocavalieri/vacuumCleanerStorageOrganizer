@@ -3,6 +3,7 @@
 
 ## Updates
 Updated February 25 2019: Added small turbo brush holder
+
 Updated January 6 2018: increased side wall from 1 to 3 millimeters in order to strengthen the structure
 
 
